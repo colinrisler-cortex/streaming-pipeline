@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "streaming-pipeline"
+  x-cortex-tag: "streaming-pipeline"
+  x-cortex-description: "Kafka-based real-time event streaming platform"
+  x-cortex-owners:
+    - type: group
+      name: "Data Platform Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001501"
+    apm_name: "Enterprise Data Platform"
+    cost_center: "CC-4510"
